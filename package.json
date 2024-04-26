@@ -31,6 +31,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"gsap": "^3.12.5",
 		"lucide-svelte": "^0.363.0"
 	}
 }
